@@ -1,1 +1,1 @@
-put
+put and clone
